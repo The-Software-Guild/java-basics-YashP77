@@ -9,11 +9,11 @@ public class DogGenetics {
 
         Scanner sc = new Scanner(System.in);
 
-        String breed1 = "Dog";
-        String breed2 = "Cat";
-        String breed3 = "Lion";
-        String breed4 = "Tiger";
-        String breed5 = "Mouse";
+        String breed1 = "German Shepherd";
+        String breed2 = "Pomeranian";
+        String breed3 = "Husky";
+        String breed4 = "Poodle";
+        String breed5 = "Bulldog";
 
         System.out.println("What is your dogs name?");
         String name = sc.nextLine();
